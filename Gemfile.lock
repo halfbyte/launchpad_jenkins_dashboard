@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    ffi (1.0.9)
+    httpi (0.9.4)
+      pyu-ntlm-http (>= 0.1.3.1)
+      rack
+    json (1.5.1)
+    launchpad (0.2.2)
+      portmidi (>= 0.0.6)
+    portmidi (0.0.6)
+    pyu-ntlm-http (0.1.3.1)
+    rack (1.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ffi
+  httpi
+  json
+  launchpad

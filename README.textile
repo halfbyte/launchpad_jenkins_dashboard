@@ -1,0 +1,13 @@
+Just a stupid hack. Use your Launchpad to visualise your build status of
+projects in jenkins, open jenkins project pages in your browser by hitting the 
+corresponding button.
+
+Please note that this will probably only work on MacOS, since I'm relying on 
+the "open" shell command to open the browser window.
+
+This started off as a quick hack in my Interactivity workshop on Eurucamp I 
+did with "Matthias Viehweger":https://github.com/kronn.
+
+h2. Prequisites
+
+portmidi library. Use your favorite packetmanager to install it.
